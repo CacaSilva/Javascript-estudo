@@ -1,0 +1,18 @@
+p{
+    font-size: 25px;
+    font-family: cursive;
+}
+body{
+    background-color: azure;
+    text-align: center;
+}
+div{
+    border-radius: 10px;
+    border-style: dashed;
+    background-color: rgb(255, 255, 255);
+    margin-left: 600px;
+    margin-right: 600px;
+    
+    
+   
+}
