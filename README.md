@@ -1,2 +1,2 @@
 # Javascript estudo
- Repositório para testes em Javascript
+ Exercicios e estudos em Javascript, HTML e CSS
