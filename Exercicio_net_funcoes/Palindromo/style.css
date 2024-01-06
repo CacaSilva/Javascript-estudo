@@ -1,0 +1,15 @@
+body{
+    color: #03205f;
+    background-color: #cfe4e1;
+}
+    .a1{
+        border-radius: 10px;
+        background-color: rgb(235, 240, 241);        
+        border-style: hidden;
+        padding: 60px;
+        width: 15%;       
+        margin-left: 2%;
+       
+       
+       
+    }
